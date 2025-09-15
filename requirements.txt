@@ -1,0 +1,6 @@
+fastf1
+scikit-learn
+pandas
+matplotlib
+python-dotenv
+requests
